@@ -1,0 +1,127 @@
+﻿@page "/listargatos"
+@attribute [Authorize]
+@using Microsoft.AspNetCore.Authorization
+@using AppDeCastracao.Entities
+@using AppDeCastracao.Services
+@inject GatoService gatoService
+@inject NotificationService notification
+@inject NavigationManager navigation
+
+
+<h3>Gatos Cadastrados</h3>
+<RadzenTextBox @bind-Value="globalFilter" Placeholder="Buscar por nome, sexo, localização..." Style="width: 100%; margin-bottom: 10px;" Change="@OnSearchChanged" />
+<RadzenDataGrid Data="@listarGatos"
+                TItem="Gato"
+                FilterValue="@globalFilter"
+                AllowSorting="true"
+                FilterCaseSensitivity="FilterCaseSensitivity.CaseInsensitive"
+                ShowPagingSummary="false"
+                ShowPagination="false"
+                Class="rz-datatable-striped rz-datatable-hoverable">
+
+    <Columns>
+        <RadzenDataGridColumn TItem="Gato" Property="EtiquetaIdentificacao" Title="Etiqueta" Sortable="true" />
+        <RadzenDataGridColumn TItem="Gato" Property="Nome" Title="Nome" Sortable="true" />
+        <RadzenDataGridColumn TItem="Gato" Property="Sexo" Title="Sexo" Sortable="true" />
+        <RadzenDataGridColumn TItem="Gato" Title="Idade" Sortable="false" >
+            <Template Context="g">
+                @($"{g.IdadeAnos} ano(s) e {g.IdadeMeses} mês(es)")
+            </Template>
+        </RadzenDataGridColumn>
+
+        <RadzenDataGridColumn TItem="Gato" Property="Cor" Title="Cor" Sortable="true" />
+        <RadzenDataGridColumn TItem="Gato" Property="Localizacao" Title="Localização" Sortable="true" />
+
+        <RadzenDataGridColumn TItem="Gato" Title="Status" Sortable="false" >
+            <Template Context="g">
+                @if (g.GatoStatuses != null && g.GatoStatuses.Any())
+                {
+                    <div style="display: flex; flex-direction: column; gap: 4px;">
+                    @foreach (var gs in g.GatoStatuses)
+                    {    
+                        var cor = gs.Status?.Descricao switch
+                        {
+                            "Castrado" => "#007bff",
+                            "Vacinado" => "#17a2b8",
+                            "Comunitário" => "#6c757d",
+                            "Para Adoção" => "#ffc107",
+                            "Adotado" => "#28a745",
+                            _ => "#6c757d"
+                        };
+                        <RadzenBadge Text="@gs.Status?.Descricao"
+                                     Style=@($"margin: 2px; background-color: {cor}; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.8rem;") />
+                    }
+                    </div>
+                }
+                else
+                {
+                    <span style="color: gray;">Sem status</span>
+                }
+            </Template>
+        </RadzenDataGridColumn>
+
+        <RadzenDataGridColumn TItem="Gato" Title="Foto" Sortable="false">
+            <Template Context="g">
+                @if (!string.IsNullOrEmpty(g.FotoUrl))
+                {
+                    <img src="@g.FotoUrl" style="max-height: 60px;" />
+                }
+            </Template>
+        </RadzenDataGridColumn>
+
+        <RadzenDataGridColumn TItem="Gato" Title="Ações" Sortable="false">
+            <Template Context="g">
+                <RadzenButton Text="Editar" Click="@(() => navigation.NavigateTo($"/cadastrogato/{g.Id}"))" Style="margin-right: 5px;" />
+                <RadzenButton Text="Excluir" ButtonStyle="ButtonStyle.Danger" Click="@(() => ExcluirGato(g.Id))" />
+            </Template>
+        </RadzenDataGridColumn>
+    </Columns>
+</RadzenDataGrid>
+
+@code {
+    private string globalFilter = string.Empty;
+    private List<Gato> listarGatos = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        listarGatos = await gatoService.GetAllAsync();
+        FiltrarGatos();
+    }
+
+    private async Task ExcluirGato(int id)
+    {
+        await gatoService.DeleteAsync(id);
+        listarGatos = await gatoService.GetAllAsync();
+    }
+
+    private void EditarGato(Gato g)
+    {
+        // Redireciona para tela de cadastro com ID (se desejar passar parâmetros)
+        navigation.NavigateTo($"/cadastrogato?id={g.Id}");
+    }
+    private async Task OnSearchChanged(object? value)
+    {
+        FiltrarGatos();
+
+    }
+    private async void FiltrarGatos()
+    {
+        if (string.IsNullOrWhiteSpace(globalFilter))
+        {
+            listarGatos = await gatoService.GetAllAsync(); // força o recarregamento
+        }
+        else
+        {
+            var termo = globalFilter.ToLower();
+
+            listarGatos = listarGatos.Where(g =>
+                (g.Nome ?? "").ToLower().Contains(termo) ||
+                (g.Localizacao ?? "").ToLower().Contains(termo) ||
+                (g.Observacao ?? "").ToLower().Contains(termo) ||
+                (g.GatoStatuses.Any(gs => (gs.Status?.Descricao ?? "").ToLower().Contains(termo))) ||
+                (g.EtiquetaIdentificacao ?? "").ToLower().Contains(termo)
+            ).ToList();
+        }
+    StateHasChanged(); // força atualização da UI
+    }
+}

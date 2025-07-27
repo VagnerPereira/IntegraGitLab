@@ -1,0 +1,73 @@
+﻿@using Microsoft.AspNetCore.Components.Authorization
+@inject AuthenticationStateProvider AuthStateProvider
+@inject NavigationManager Navigation
+@inherits LayoutComponentBase
+
+<RadzenComponents @rendermode="InteractiveServer" />
+
+<RadzenLayout>
+    <RadzenHeader Style="height:3rem; padding:0;">
+        <div style="display:flex;
+                align-items:center;
+                justify-content:space-between;
+                height:100%;
+                padding:0 1rem;
+                box-sizing:border-box;">
+            <!-- Esquerda -->
+            <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" Gap="0.5rem">
+                <RadzenSidebarToggle Click="@(() => sidebar1Expanded = !sidebar1Expanded)" />
+                <RadzenLabel Text="Header" />
+            </RadzenStack>
+
+            <!-- Direita -->
+            <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" Gap="0.5rem">
+                <RadzenAppearanceToggle />
+                @if (estaLogado)
+                {
+                    <RadzenLabel Text="@usuarioLogado" Style="margin-right:1rem;" />
+                    <RadzenButton Text="Sair" Click="@Logout" ButtonStyle="ButtonStyle.Danger" />
+                }
+            </RadzenStack>
+        </div>
+    </RadzenHeader>
+
+    <AuthorizeView>
+        <Authorized>
+            <RadzenSidebar @bind-Expanded="@sidebar1Expanded">
+                <RadzenPanelMenu>
+                    <RadzenPanelMenuItem Text="Tela Inicial" Icon="home" Path="/" />
+                    <RadzenPanelMenuItem Text="Cadastro de Donos" Icon="assignment" Path="/cadastrodono" />
+                    <RadzenPanelMenuItem Text="Cadastro de Gatos" Icon="assignment" Path="/cadastrogato" />
+                    <RadzenPanelMenuItem Text="Listar Gatos" Icon="list" Path="/listargatos" />
+                    <RadzenPanelMenuItem Text="Listar Donos" Icon="list" Path="/listardonos" />
+                </RadzenPanelMenu>
+            </RadzenSidebar>
+        </Authorized>
+    </AuthorizeView>
+
+    <RadzenBody>
+        <div class="rz-p-4">
+            @Body
+        </div>
+    </RadzenBody>
+
+    <RadzenFooter>Footer</RadzenFooter>
+</RadzenLayout>
+
+@code {
+    bool sidebar1Expanded = true;
+    bool estaLogado;
+    string? usuarioLogado;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var auth = await AuthStateProvider.GetAuthenticationStateAsync();
+        var user = auth.User;
+        estaLogado = user.Identity?.IsAuthenticated == true;
+        if (estaLogado)
+            usuarioLogado = user.Identity?.Name;
+    }
+
+    void Logout() =>
+      Navigation.NavigateTo("/auth/logout", forceLoad: true);
+}

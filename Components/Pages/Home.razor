@@ -1,0 +1,32 @@
+﻿@page "/"
+@attribute [Authorize]
+@using Microsoft.AspNetCore.Authorization
+@inject NavigationManager Navigation
+@inject NavigationManager nav
+
+<div style="margin-bottom: 20px;">
+    <RadzenButton Click="@GoToCadastroDono" Text="Cadastrar novo dono" Style="margin-right: 10px;" />
+    <RadzenButton Click="@GoToCadastroGato" Text="Cadastrar novo gato" Style="margin-right: 10px;" />
+    <RadzenButton Click="@GoToLista" Text="Listar Gatos" Style="margin-right: 10px;" />
+</div>
+
+@code {
+    private void GoToCadastroDono()
+    {
+        nav.NavigateTo("/cadastrodono");
+    }
+    private void GoToCadastroGato()
+    {
+        nav.NavigateTo("/cadastrogato");
+    }
+
+    private void GoToLista()
+    {
+        nav.NavigateTo("/listargatos");
+    }
+
+    private void GoToLogin()
+    {
+        nav.NavigateTo("/login");
+    }
+}

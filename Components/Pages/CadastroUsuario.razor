@@ -1,0 +1,84 @@
+﻿@page "/cadastrousuario"
+@attribute [Authorize(Roles = "SuperAdministrador")]
+@using Microsoft.AspNetCore.Authorization
+@using AppDeCastracao.Services
+@using AppDeCastracao.Entities
+@inject UsuarioService usuarioService
+@inject NavigationManager Navigation
+
+<EditForm Model="@novoUsuario" OnValidSubmit="@CadastrarUsuario">
+    <div class="form-grid">
+        <div class="form-grid-item">
+            <RadzenLabel Text="Nome" />
+            <RadzenTextBox @bind-Value="novoUsuario.Nome" Placeholder="Digite o nome" Style="width:100%" />
+        </div>
+
+        <div class="form-grid-item">
+            <RadzenLabel Text="Email" />
+            <RadzenTextBox @bind-Value="novoUsuario.Email" Placeholder="Digite o email" Style="width:100%" />
+        </div>
+
+        <div class="form-grid-item">
+            <RadzenLabel Text="Senha" />
+            <RadzenTextBox @bind-Value="novoUsuario.Senha" Type="password" Placeholder="Digite a senha" Style="width:100%" />
+        </div>
+
+        <div class="form-grid-item">
+            <RadzenLabel Text="Função (Role)" />
+            <RadzenDropDown @bind-Value="novoUsuario.Role"
+                            Data="@rolesDisponiveis"
+                            Placeholder="Selecione a função"
+                            Style="width:100%" />
+        </div>
+
+        <div class="form-grid-item">
+            <RadzenButton Text="Cadastrar" ButtonType="ButtonType.Submit" Style="margin-top: 20px;" />
+            <RadzenButton Text="Cancelar" ButtonStyle="ButtonStyle.Secondary" Click="Voltar" Style="margin-left: 10px; margin-top: 20px;" />
+        </div>
+
+        @if (!string.IsNullOrEmpty(mensagem))
+        {
+            <div class="form-grid-item">
+                <RadzenLabel Text="@mensagem" />
+            </div>
+        }
+    </div>
+</EditForm>
+
+@code {
+    private NovoUsuarioModel novoUsuario = new();
+    private string mensagem = "";
+    private List<string> rolesDisponiveis = new() { "Administrador", "SuperAdministrador" };
+
+    private async Task CadastrarUsuario()
+    {
+        var sucesso = await usuarioService.CriarUsuarioAsync(
+            novoUsuario.Email,
+            novoUsuario.Senha,
+            novoUsuario.Nome,
+            novoUsuario.Role);
+
+        if (sucesso)
+        {
+            mensagem = "Usuário cadastrado com sucesso!";
+            novoUsuario = new(); // limpa os campos
+        }
+        else
+        {
+            mensagem = "Erro: Email já cadastrado.";
+        }
+    }
+
+    private void Voltar()
+    {
+        Navigation.NavigateTo("/");
+    }
+
+    public class NovoUsuarioModel
+    {
+        public string Nome { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
+        public string Senha { get; set; } = string.Empty;
+        public string Role { get; set; } = string.Empty;
+    }
+}

@@ -1,0 +1,286 @@
+﻿@page "/cadastrogato"
+@page "/cadastrogato/{id:int?}"
+@attribute [Authorize]
+@using Microsoft.AspNetCore.Authorization
+@using AppDeCastracao.Entities
+@using AppDeCastracao.Services
+@inject GatoService gatoService
+@inject DonoService donoService
+@inject NotificationService notification
+@inject NavigationManager navigation
+
+<h3>@(isEditando ? "Editando" : "Cadastrar Gato")</h3>
+
+<EditForm Model="@gato" OnValidSubmit="@registraGato">
+<div class="form-grid">
+
+    <div class="form-grid-item">
+        <RadzenText Text="Nome" />
+        <div class="form-container">
+        <RadzenTextBox @bind-Value="gato.Nome" Placeholder="Digite seu nominho" />
+        </div>
+    </div>
+    <div class="form-grid-item">
+        <RadzenText Text="Sexo" />
+        <div>     
+        <RadzenDropDown @bind-Value="gato.Sexo" 
+        Data="@sexos"
+        Placeholder="Selecione o sexo"/>
+        </div>
+    </div>
+        <div class="form-grid-item">
+            <RadzenText Text="Idade (anos)" />
+            <div class="form-container">
+                <RadzenNumeric @bind-Value="gato.IdadeAnos" Min="0" Placeholder="Idade aproximada em anos" />
+            </div>
+        </div>
+
+        <div class="form-grid-item">
+            <RadzenText Text="Idade (meses)" />
+            <div class="form-container">
+                <RadzenNumeric @bind-Value="gato.IdadeMeses" Min="0" Max="11" Placeholder="Idade aproximada em meses" Name="idadeMeses" />
+                @if (exibirAvisoMesInvalido)
+                {
+                    <div style="color: #EE4F5C; font-size: 0.9em;">Por favor, digite um mês válido (0 a 11).</div>
+                }
+            </div>
+        </div>
+    <div class="form-grid-item">
+        <RadzenText Text="Cor" />
+        <div class="form-container">
+        <RadzenTextBox @bind-Value="gato.Cor" Placeholder="Digite a cor predominate" />
+        </div>
+    </div>
+    <div class="form-grid-item">
+        <RadzenText Text="Localização" />
+        <div class="form-container">
+        <RadzenTextBox @bind-Value="gato.Localizacao" Placeholder="Local onde o gato foi encontrado" />
+        </div>
+    </div>
+    <div class="form-grid-item">
+        <RadzenText Text="Obvservações" />
+        <div class="form-container">
+        <RadzenTextBox @bind-Value="gato.Observacao"/>
+        </div>
+    </div>
+        <div class="form-grid-item">
+            <RadzenText Text="Foto" />
+            <div class="form-container">
+                <InputFile OnChange="UploadImage" />
+                @if (!string.IsNullOrEmpty(gato.FotoUrl))
+                {
+                    <img src="@gato.FotoUrl" alt="Foto do Gato" style="max-height: 100px; margin-top: 10px;" />
+                }
+            </div>
+        </div>
+        <div class="form-grid-item">
+            <RadzenCheckBox @bind-Value="gato.PossuiDono" style="margin-top: 10px;" />
+            <RadzenLabel Text="Possui Dono?" style="margin-top: 10px;" />
+        </div>
+
+        @if (gato.PossuiDono)
+        {
+            <div class="form-grid-item">
+                <RadzenText Text="Dono" />
+                <RadzenDropDown @bind-Value="gato.DonoId"
+                Data="@donos"
+                TextProperty="Nome"
+                ValueProperty="Id"
+                Placeholder="Selecione o dono" />
+            </div>
+        }
+
+    <div class="form-grid-item">
+        <RadzenText Text="Etiqueta" />
+        <div class="form-container">
+        <RadzenTextBox @bind-Value="gato.EtiquetaIdentificacao" Placeholder="Numero para identificação do Animal" />
+        </div>
+    </div>
+</div>
+
+    <div class="form-grid-item">
+        <RadzenLabel Text="Status" />
+        <div class="form-container">
+        <RadzenDropDown Data="@statusDisponiveis"
+        TextProperty="Descricao"
+        ValueProperty="Id"
+        @bind-Value="statusSelecionados"
+        Multiple="true"
+        Placeholder="Selecione os status"
+        AllowClear="true"
+        SelectAllText="Selecionar Todos"
+        FilterCaseSensitivity="FilterCaseSensitivity.CaseInsensitive" />
+        </div>
+    </div>
+    <div class="form-grid-item">
+        <RadzenButton Text="Salvar" ButtonType="ButtonType.Submit" Style="margin-top: 20px;" />
+        @if (isEditando)
+        {
+            <RadzenButton Text="Cancelar" ButtonStyle="ButtonStyle.Danger" Click="@CancelarEdicao" />
+        }
+    </div>
+</EditForm>
+
+
+@if (isTrue)
+{
+    <p>@Mensagem</p>
+}
+
+@code {
+    @inject IWebHostEnvironment env
+    [Inject] public StatusService? statusService { get; set; }
+    private List<string> sexos = new() { "Masculino", "Feminino" };
+    private Gato gato = new(){ IdadeMeses = null, IdadeAnos = null};
+    private List<Gato> listarGatos = new();
+    private List<Dono> donos = new();
+    private bool isEditando = false;
+    private int gatoIdEditando = 0;
+    private List<Status> statusDisponiveis = new();
+    private List<int> statusSelecionados = new(); // Lista de StatusId
+    private bool exibirAvisoMesInvalido = false;
+    public bool isTrue = false;
+    private string? Mensagem { get; set; }
+    [Parameter]public int? id { get; set; }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        donos = await donoService.GetAllAsync();
+        if (id.HasValue)
+        {
+            gato = await gatoService.GetByIdAsync(id.Value) ?? new();
+            isEditando = true;
+        }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        statusDisponiveis = await statusService!.GetAllAsync();
+
+        if (id.HasValue)
+        {
+            gato = await gatoService.GetByIdAsync(id.Value) ?? new();
+            isEditando = true;
+            statusSelecionados = gato.GatoStatuses?.Select(gs => gs.StatusId).ToList() ?? new();
+        }
+    }
+
+    private void CancelarEdicao()
+    {
+        gato = new Gato();
+        isEditando = false;
+        gatoIdEditando = 0;
+        Mensagem = null;
+        navigation.NavigateTo("/listargatos");
+    }
+
+    private async Task registraGato()
+    {
+        exibirAvisoMesInvalido = false;
+
+        if (gato.IdadeMeses is null || gato.IdadeMeses < 0 || gato.IdadeMeses > 11)
+        {
+            exibirAvisoMesInvalido = true;
+            StateHasChanged();
+            return;
+        }
+        try
+        {
+            Console.WriteLine($"Foto sendo salva: {gato.FotoUrl}");
+            gato.GatoStatuses = statusSelecionados.Select(sid => new GatoStatus
+            {
+                GatoId = gato.Id,
+                StatusId = sid,
+                DataAplicacao = DateTime.Now
+            }).ToList();
+
+            if (isEditando)
+            {
+                await gatoService.UpdateAsync(gato);
+                notification.Notify(Radzen.NotificationSeverity.Success, "Sucesso!", "Cadastro atualizado!");
+                isEditando = false;
+                gatoIdEditando = 0;
+            }
+            else
+            {
+                await gatoService.CreateAsync(gato);
+                notification.Notify(Radzen.NotificationSeverity.Success, "Sucesso!", "Gato cadastrado com sucesso!");
+            }
+        }
+        catch (Exception ex)
+        {
+            notification.Notify(Radzen.NotificationSeverity.Error, "Erro ao salvar", ex.Message);
+        }
+        finally
+        {
+            gato = new();
+            listarGatos = await gatoService.GetAllAsync();
+        }
+    }
+    private async Task ExcluirGato(int id)
+    {
+        try
+        {
+            await gatoService.DeleteAsync(id);
+            listarGatos = await gatoService.GetAllAsync();
+            notification.Notify(Radzen.NotificationSeverity.Info, "Removido", "Gato excluído com sucesso!");
+        }
+        catch (Exception ex)
+        {
+            notification.Notify(Radzen.NotificationSeverity.Error, "Erro ao excluir", ex.Message);
+        }
+    }
+    private async Task EditarGato(Gato g)
+    {
+        donos = await donoService.GetAllAsync();
+        isEditando = true;
+        gatoIdEditando = g.Id;
+
+        // Recarrega o gato completo, incluindo os status
+        var gatoCompleto = await gatoService.GetByIdAsync(g.Id);
+
+        if (gatoCompleto is not null)
+        {
+            gato = new Gato
+            {
+                Id = gatoCompleto.Id,
+                Nome = gatoCompleto.Nome,
+                Sexo = gatoCompleto.Sexo,
+                IdadeAnos = gatoCompleto.IdadeAnos,
+                IdadeMeses = gatoCompleto.IdadeMeses,
+                Cor = gatoCompleto.Cor,
+                Observacao = gatoCompleto.Observacao,
+                EtiquetaIdentificacao = gatoCompleto.EtiquetaIdentificacao,
+                Localizacao = gatoCompleto.Localizacao,
+                FotoUrl = gatoCompleto.FotoUrl,
+                PossuiDono = gatoCompleto.PossuiDono,
+                DonoId = gatoCompleto.DonoId
+            };
+
+            // Carrega os StatusIds do gato
+            statusSelecionados = gatoCompleto.GatoStatuses?
+                .Select(gs => gs.StatusId)
+                .ToList() ?? new List<int>();
+        }
+    }
+    private async Task UploadImage(InputFileChangeEventArgs e)
+    {
+        var file = e.File;
+
+        if (file != null)
+        {
+            var fileName = $"{Guid.NewGuid()}_{file.Name}";
+            var folderPath = Path.Combine(env.WebRootPath, "uploads");
+            var filePath = Path.Combine(folderPath, fileName);
+
+            Directory.CreateDirectory(folderPath); // Garante a pasta
+
+            using var stream = File.Create(filePath);
+            await file.OpenReadStream(maxAllowedSize: 1024 * 1024 * 15).CopyToAsync(stream); ;
+
+            // Caminho relativo para o navegador exibir
+            gato.FotoUrl = $"/uploads/{fileName}";
+        }
+    }
+
+}

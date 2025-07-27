@@ -1,0 +1,21 @@
+﻿@using Microsoft.AspNetCore.Components.Authorization
+<CascadingAuthenticationState>
+  <Router AppAssembly="@typeof(Program).Assembly">
+    <Found Context="routeData">
+      <AuthorizeRouteView RouteData="routeData"
+                          DefaultLayout="@typeof(Layout.MainLayout)">
+        <NotAuthorized>
+          <!-- Se NÃO autenticado, manda para /login -->
+          <RedirectToLogin />
+        </NotAuthorized>
+      </AuthorizeRouteView>
+      <FocusOnNavigate RouteData="routeData" Selector="h1" />
+    </Found>
+    <NotFound>
+      <!-- Exibe algo quando rota não existe -->
+      <LayoutView Layout="@typeof(Layout.MainLayout)">
+        <p>Ops… página não encontrada.</p>
+      </LayoutView>
+    </NotFound>
+  </Router>
+</CascadingAuthenticationState>

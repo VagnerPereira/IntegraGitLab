@@ -1,0 +1,71 @@
+﻿@page "/cadastrodono"
+@attribute [Authorize]
+@using Microsoft.AspNetCore.Authorization
+@using AppDeCastracao.Entities
+@using AppDeCastracao.Services
+@inject DonoService donoService
+@inject NotificationService notification
+
+<h3>Cadastro de Donos</h3>
+
+<EditForm Model="@dono" OnValidSubmit="@registraDono">
+    <div class="form-grid">
+
+        <div class="form-grid-item">
+            <RadzenText Text="Nome" />
+            <div class="form-container">
+                <RadzenTextBox @bind-Value="dono.Nome" Placeholder="Digite o nome completo" />
+            </div>
+        </div>
+
+        <div class="form-grid-item">
+            <RadzenText Text="Email" />
+            <div class="form-container">
+                <RadzenTextBox @bind-Value="dono.Email" Placeholder="Digite o email" />
+            </div>
+        </div>
+
+        <div class="form-grid-item">
+            <RadzenText Text="Telefone" />
+            <div class="form-container">
+                <RadzenTextBox @bind-Value="dono.Telefone" Placeholder="Digite o telefone" />
+            </div>
+        </div>
+
+        <div class="form-grid-item">
+            <RadzenText Text="Endereço" />
+            <div class="form-container">
+                <RadzenTextBox @bind-Value="dono.Endereco" Placeholder="Digite o endereço completo" />
+            </div>
+        </div>
+
+        <div class="form-grid-item">
+            <RadzenText Text="Cidade" />
+            <div class="form-container">
+                <RadzenTextBox @bind-Value="dono.Cidade" Placeholder="Digite a cidade" />
+            </div>
+        </div>
+
+        <div class="form-grid-item">
+            <RadzenText Text="Estado" />
+            <div class="form-container">
+                <RadzenTextBox @bind-Value="dono.Estado" Placeholder="Digite o estado" />
+            </div>
+        </div>
+    </div>
+
+    <div class="form-grid-item">
+        <RadzenButton Text="Salvar" ButtonType="ButtonType.Submit" Style="margin-top: 20px;" />
+    </div>
+</EditForm>
+
+@code {
+    private Dono dono = new();
+
+    private async Task registraDono()
+    {
+        await donoService.CreateAsync(dono);
+        notification.Notify(Radzen.NotificationSeverity.Success, "Sucesso!", "Dono cadastrado com sucesso!");
+        dono = new(); // Limpa o formulário após salvar
+    }
+}

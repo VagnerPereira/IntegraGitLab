@@ -1,0 +1,70 @@
+﻿@page "/login"
+@using AppDeCastracao.Services
+@using AppDeCastracao.Helpers
+@using Microsoft.AspNetCore.Authentication;
+@using Microsoft.AspNetCore.Authentication.Cookies;
+@inject NavigationManager Navigation
+@inject UsuarioService usuarioService
+@inject NavigationManager Navigation
+@inject IHttpContextAccessor HttpContextAccessor
+
+<h3 style="text-align: center; margin-top: 100px;">Bem-vindo de volta!</h3>
+
+@if (Navigation.Uri.Contains("erro=true"))
+{
+    <div style="color: #EE4F5C; margin-bottom: 15px; text-align: center;">
+        Usuário ou senha inválidos.
+    </div>
+}
+
+<!-- Mesmo processo de autenticação via controller -->
+<form method="post" action="/auth/login" style="max-width: 400px; margin: auto; margin-top: 40px;">
+    <div class="form-group" style="margin-bottom: 20px;">
+        <RadzenLabel Text="E-mail" />
+        <RadzenTextBox Name="email"
+                       Placeholder="Digite seu e-mail"
+                       Style="width: 100%; border-radius: 8px;" />
+    </div>
+
+    <div class="form-group" style="margin-bottom: 20px;">
+        <RadzenLabel Text="Senha" />
+        <RadzenPassword Name="senha"
+                        Placeholder="Digite sua senha"
+                        Style="width: 100%; border-radius: 8px;" />
+    </div>
+
+    <div style="display: flex; justify-content: space-between; font-size: 14px; margin-bottom: 20px;">
+        <a href="#">Esqueci minha senha</a>
+        <a href="#">Criar conta</a>
+    </div>
+
+    <RadzenButton Text="Entrar"
+                  ButtonType="ButtonType.Submit"
+                  Style="width: 100%; background-color: #3cb371; font-weight: bold;" />
+</form>
+
+@code {
+    private LoginModel loginModel = new();
+    private string? mensagemErro;
+
+    public class LoginModel
+    {
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
+
+    private async Task LoginAsync()
+    {
+        var usuario = await usuarioService.AutenticarAsync(loginModel.Email, loginModel.Password);
+        if (usuario != null)
+        {
+            var claimsPrincipal = ClaimsHelper.CriarClaims(usuario);
+            await HttpContextAccessor.HttpContext!.SignInAsync("MyCookieAuth", claimsPrincipal);
+            Navigation.NavigateTo("/");
+        }
+        else
+        {
+            mensagemErro = "Usuário ou senha inválidos.";
+        }
+    }
+}

@@ -1,0 +1,528 @@
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\appsettings.Development.json
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\appsettings.json
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AppDeCastracao.staticwebassets.runtime.json
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AppDeCastracao.staticwebassets.endpoints.json
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AppDeCastracao.exe
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AppDeCastracao.deps.json
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AppDeCastracao.runtimeconfig.json
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AppDeCastracao.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AppDeCastracao.pdb
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.AspNetCore.Authorization.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.AspNetCore.Components.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Web.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.AspNetCore.Metadata.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.JSInterop.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Radzen.Blazor.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.csproj.AssemblyReference.cache
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.AssemblyInfoInputs.cache
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.AssemblyInfo.cs
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.csproj.CoreCompileInputs.cache
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.MvcApplicationPartsAssemblyInfo.cache
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.sourcelink.json
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\scopedcss\bundle\AppDeCastracao.styles.css
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\scopedcss\projectbundle\AppDeCastracao.bundle.scp.css
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\t8kfz0jwhf-hcyfjztfqi.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\puhzzxxpds-796b73bq82.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\tpbz3kwmi1-ga4l0q48yz.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\lajis6h9q2-x6merli1rk.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\s9otf05z8q-22pb44itlf.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\fp7uetamp1-pblx1qaqft.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\hzxay3wjwu-c3ehngmwzo.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\4tfzvf9qks-9fpk6led9e.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\r9w1mufl9l-7bt2cgjiuc.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\i1901ftr2x-kp0ueqs315.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\6xb9o06z95-v0vawm9e2e.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\t2tvocn0z4-lgzq86shzl.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\szrpv8c5gp-khy4lop6wu.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\t66ed2j9db-c2jlpeoesf.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\q7d8t7t0mz-aexeepp0ev.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\ozi3veb3fr-ausgxo2sd3.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\eiil25ixwu-cosvhxvwiu.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\e56py48m8x-fvhpjtyr6v.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\kho4xg9m8b-fsbi9cje9m.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\q37nfj2m1m-ee0r1s7dh0.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\9zpbzniter-jd9uben2k1.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\8pn4dpvtpo-r4e9w2rdcm.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\aemxjaoql5-c2oey78nd0.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\y2bbbva1bf-j5mq2jizvt.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\ddzyqyzfv4-nvvlpmu67g.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\tvc1zqtxlt-pj5nd1wqec.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\jxxjwcdrzd-v0zj4ognzu.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\n7pthpuoel-hrwsygsryq.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\om6cmien8j-ft3s53vfgj.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\xiz4bvy7n2-6pdc2jztkx.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\pxiofuiv8a-iovd86k7lj.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\9l1i9307q6-kbrnm935zg.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\9y2sgiwq4s-y7v9cxd14o.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\b08xuncuhr-h1s4sie4z3.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\omf6yw6r33-0j3bgjxly4.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\staticwebassets.build.json
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\staticwebassets.development.json
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\SISTEMA .30511FC2.Up2Date
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\refint\AppDeCastracao.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.pdb
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.genruntimeconfig.cache
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\ref\AppDeCastracao.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AWSSDK.Core.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\DnsClient.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\MongoDB.Bson.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\MongoDB.Driver.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\SharpCompress.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Snappier.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ZstdSharp.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Azure.Core.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Azure.Identity.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Humanizer.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.ClientModel.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.CodeDom.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\c1kki6wrpy-c2kg0k6zkq.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\13w5d5gf1p-6cjmtzjnaz.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\e8lwkmfe8l-ybckg0j8gv.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\o7ej72sj20-2pxyshl0sv.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\vp43n8brm6-1ygpew5t1b.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\3mkt4spddn-zhj8zyc9j2.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\6o9s175gvo-y6gmo4ww1o.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\1i7dq2ynh3-x2knw3wrth.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\ljz8shcmxy-unl2wi6k5e.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\hhff85vxhh-g73ays0797.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\umq7d7hlv3-4utzmie4c9.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\tk49g4xv5u-diigbecqex.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\4d1o7blez5-z5ac9cjls8.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\iziymon70z-o1otleuqcl.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\gkqy78lw9w-e5u0q9vmdk.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\63oc1n27oy-lvocteieot.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\pzoc9euazt-mqj1jb4c3r.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\a9qr3lfjcz-2n5emmoaqg.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\6crp8u0vy1-03eer20f2l.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\tyl999z8ld-xd1wx73d3i.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\ftx6rdswby-t1cqhe9u97.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\08edq6s56d-sejl45xvog.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\50foz65clo-xvp3kq03qx.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\d7yyzj0zk9-22vffe00uq.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\lx4ri1dbkw-qesaa3a1fm.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\v6o8r96xg5-tmc1g35s3z.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\kpeq96d5in-rxsg74s51o.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\bdn2h3x2j7-q9ht133ko3.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\xiq5g2enak-gye83jo8yx.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\mfzninxlb8-wl58j5mj3v.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\tfe0ffnajh-d4r6k3f320.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\pg3jla4dlm-keugtjm085.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\x8cit4ehvx-zub09dkrxp.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\edvbje2yke-43atpzeawx.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\vpkd1wiomg-ynyaa8k90p.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\z12sabcqk8-c63t5i9ira.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\0pr9y04l1f-4094rpi4f9.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\9yds27d5z6-hd3gran6i8.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\ld6z4sc6sr-ltid2c489k.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\jb86dqw5u3-8vyfqsqgz1.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\oyyi0ccl5i-u9q1upor1n.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\bsbp2j1lnu-4d85u1mtcx.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\xanbe7uumz-tf2mp677ke.gz
+E:\Minhas coisas\Github\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\v2g9acuvm6-tf2mp677ke.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\appsettings.json
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AppDeCastracao.staticwebassets.runtime.json
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AppDeCastracao.staticwebassets.endpoints.json
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AppDeCastracao.exe
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AppDeCastracao.deps.json
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AppDeCastracao.runtimeconfig.json
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AppDeCastracao.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AppDeCastracao.pdb
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\DnsClient.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Humanizer.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.AspNetCore.Components.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.JSInterop.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Radzen.Blazor.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\Snappier.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.AssemblyInfo.cs
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.sourcelink.json
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\scopedcss\bundle\AppDeCastracao.styles.css
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\scopedcss\projectbundle\AppDeCastracao.bundle.scp.css
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\c1kki6wrpy-c2kg0k6zkq.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\13w5d5gf1p-6cjmtzjnaz.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\t8kfz0jwhf-hcyfjztfqi.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\e8lwkmfe8l-ybckg0j8gv.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\o7ej72sj20-2pxyshl0sv.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\puhzzxxpds-796b73bq82.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\vp43n8brm6-1ygpew5t1b.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\3mkt4spddn-zhj8zyc9j2.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\6o9s175gvo-y6gmo4ww1o.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\1i7dq2ynh3-x2knw3wrth.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\tpbz3kwmi1-ga4l0q48yz.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\lajis6h9q2-x6merli1rk.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\ljz8shcmxy-unl2wi6k5e.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\hhff85vxhh-g73ays0797.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\umq7d7hlv3-4utzmie4c9.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\tk49g4xv5u-diigbecqex.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\s9otf05z8q-22pb44itlf.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\fp7uetamp1-pblx1qaqft.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\4d1o7blez5-z5ac9cjls8.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\iziymon70z-o1otleuqcl.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\gkqy78lw9w-e5u0q9vmdk.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\63oc1n27oy-lvocteieot.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\hzxay3wjwu-c3ehngmwzo.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\4tfzvf9qks-9fpk6led9e.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\pzoc9euazt-mqj1jb4c3r.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\a9qr3lfjcz-2n5emmoaqg.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\6crp8u0vy1-03eer20f2l.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\tyl999z8ld-xd1wx73d3i.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\r9w1mufl9l-7bt2cgjiuc.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\i1901ftr2x-kp0ueqs315.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\6xb9o06z95-v0vawm9e2e.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\t2tvocn0z4-lgzq86shzl.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\0wh1ibovy0-dn3kdtlk2u.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\szrpv8c5gp-0l3r8ive85.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\ftx6rdswby-t1cqhe9u97.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\t66ed2j9db-c2jlpeoesf.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\08edq6s56d-sejl45xvog.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\q7d8t7t0mz-aexeepp0ev.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\50foz65clo-xvp3kq03qx.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\ozi3veb3fr-ausgxo2sd3.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\d7yyzj0zk9-22vffe00uq.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\eiil25ixwu-cosvhxvwiu.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\lx4ri1dbkw-qesaa3a1fm.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\e56py48m8x-fvhpjtyr6v.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\v6o8r96xg5-tmc1g35s3z.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\kho4xg9m8b-fsbi9cje9m.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\kpeq96d5in-rxsg74s51o.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\q37nfj2m1m-ee0r1s7dh0.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\bdn2h3x2j7-q9ht133ko3.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\9zpbzniter-jd9uben2k1.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\xiq5g2enak-gye83jo8yx.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\8pn4dpvtpo-r4e9w2rdcm.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\mfzninxlb8-wl58j5mj3v.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\aemxjaoql5-c2oey78nd0.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\tfe0ffnajh-d4r6k3f320.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\y2bbbva1bf-j5mq2jizvt.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\pg3jla4dlm-keugtjm085.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\ddzyqyzfv4-nvvlpmu67g.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\x8cit4ehvx-zub09dkrxp.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\tvc1zqtxlt-pj5nd1wqec.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\edvbje2yke-43atpzeawx.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\jxxjwcdrzd-v0zj4ognzu.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\vpkd1wiomg-ynyaa8k90p.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\n7pthpuoel-hrwsygsryq.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\z12sabcqk8-c63t5i9ira.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\om6cmien8j-ft3s53vfgj.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\0pr9y04l1f-4094rpi4f9.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\xiz4bvy7n2-6pdc2jztkx.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\9yds27d5z6-hd3gran6i8.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\pxiofuiv8a-iovd86k7lj.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\ld6z4sc6sr-ltid2c489k.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\9l1i9307q6-kbrnm935zg.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\jb86dqw5u3-8vyfqsqgz1.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\9y2sgiwq4s-y7v9cxd14o.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\oyyi0ccl5i-u9q1upor1n.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\b08xuncuhr-h1s4sie4z3.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\bsbp2j1lnu-4d85u1mtcx.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\omf6yw6r33-0j3bgjxly4.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\xanbe7uumz-tf2mp677ke.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\compressed\v2g9acuvm6-tf2mp677ke.gz
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\SISTEMA .30511FC2.Up2Date
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\refint\AppDeCastracao.dll
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.pdb
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\AppDeCastracao.genruntimeconfig.cache
+C:\Users\guilh\Documents\GitHub\AppDeCastracao\AppDeCastracao\obj\Debug\net9.0\ref\AppDeCastracao.dll
