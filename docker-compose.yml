@@ -1,0 +1,37 @@
+version: '3.9'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: app-castracao
+    ports:
+      - "8080:80"
+    depends_on:
+      - postgres
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - castracao-network
+
+  postgres:
+    image: postgres:latest
+    container_name: postgres-castracao
+    environment:
+      POSTGRES_DB: castracao
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 080986
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - castracao-network
+
+volumes:
+  pgdata:
+
+networks:
+  castracao-network:
+    driver: bridge
